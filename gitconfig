@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rpadev7@yahoo.com
+	name = Julian Mühlbauer
